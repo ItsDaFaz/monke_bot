@@ -1,0 +1,7 @@
+discord_py_slash_command==2.3.2
+requests==2.26.0
+discord.py==1.7.3
+giphy_client==1.0.0
+discord==1.7.3
+Pillow==8.3.2
+python-dotenv==0.19.0
